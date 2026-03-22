@@ -32,6 +32,18 @@ Bem-vindo(a) ao processo seletivo da **MonkAI**. Este é um teste prático com t
 
 ---
 
+## Credenciais
+
+O token de licença da lib AtendentePro para uso neste teste:
+
+```
+ATENDENTEPRO_LICENSE_KEY=ATP_eyJvcmciOiJNb25rQUktRXN0YWdpby1JQSIsImV4cCI6MTc4MTk1MTkwMywiZmVhdCI6WyJmdWxsIl0sInYiOjF9.e6f882d00e9d510c
+```
+
+Adicione ao seu `.env` ou exporte como variável de ambiente antes de rodar a aplicação.
+
+---
+
 ## Tarefas
 
 Você deve completar **todas as tarefas abaixo**. Leia tudo antes de começar e planeje seu tempo.
