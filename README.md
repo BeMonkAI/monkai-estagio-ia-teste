@@ -131,11 +131,12 @@ monkai-estagio-ia-teste/
 
 | Critério | Peso | O que avalia |
 |---|---|---|
-| **Uso de IA** | 30% | Quão bem soube usar IA para acelerar e entregar |
-| **Completude** | 25% | Quantas tarefas conseguiu entregar em 2h |
-| **Qualidade do código** | 15% | Código limpo, organizado, funcional |
-| **Infraestrutura** | 15% | Key Vault + Railway configurados corretamente |
-| **Comunicação** | 15% | Clareza da documentação, do STACKS_IA.md e do raciocínio |
+| **Uso da lib AtendentePro** | 25% | Uso robusto, criativo e correto da biblioteca — não basta rodar o exemplo, esperamos ver uso real das capacidades (agentes customizados, templates, handoffs, etc.) |
+| **Ciclo de teste e melhoria** | 20% | Conseguiu rodar o tester do MonkAI Hub, interpretar os resultados e **melhorar a implementação** com base no relatório de performance |
+| **Uso de IA** | 20% | Quão bem soube usar IA para acelerar e entregar |
+| **Documentação** | 15% | **Tudo** precisa estar documentado: decisões técnicas, resultados de testes, melhorias aplicadas, stacks de IA. Código sem documentação = código que não existe |
+| **Infraestrutura** | 10% | Key Vault + Railway configurados corretamente |
+| **Completude** | 10% | Quantas tarefas conseguiu entregar em 2h |
 
 ---
 
