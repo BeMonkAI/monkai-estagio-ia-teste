@@ -6,15 +6,27 @@ Bem-vindo(a) ao processo seletivo da **MonkAI**. Este é um teste prático com t
 
 ---
 
+## Como funciona
+
+1. No **dia e horário combinados**, você receberá acesso a este repositório template
+2. A partir desse momento, o relógio de **2 horas** começa a contar
+3. Crie um **repositório privado** na sua conta do GitHub com base neste template
+4. Adicione o usuário **@arthurvaz05** como colaborador do seu repositório privado
+5. Trabalhe localmente e faça **push** dos seus commits
+6. O horário do seu **último push** será considerado como entrega
+7. Commits após o prazo de 2h **não serão considerados**
+
+---
+
 ## Regras
 
 | Item | Detalhe |
 |---|---|
-| **Tempo total** | **2 horas** a partir do recebimento deste repositório |
-| **Controle de tempo** | O horário do seu **último commit** será considerado como entrega |
+| **Tempo total** | **2 horas** a partir do recebimento do link do repositório |
+| **Controle de tempo** | O horário do seu **último push** é o que conta como entrega |
 | **Ferramentas permitidas** | Qualquer IDE e qualquer ferramenta de IA (Claude, ChatGPT, Copilot, Cursor, etc.) |
 | **Restrição** | Não pode pedir ajuda a outras pessoas |
-| **Entrega** | Tudo deve ser commitado neste repositório |
+| **Entrega** | Tudo deve ser commitado e enviado (push) para este repositório |
 
 > **Importante:** Você **deve documentar** todas as ferramentas de IA, IDEs e modelos que utilizou (detalhes na Tarefa 5).
 
