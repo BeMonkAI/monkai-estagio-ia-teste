@@ -34,13 +34,14 @@ Bem-vindo(a) ao processo seletivo da **MonkAI**. Este é um teste prático com t
 
 ## Credenciais
 
-O token de licença da lib AtendentePro para uso neste teste:
+Para usar a lib AtendentePro, você precisa de **duas variáveis de ambiente**:
 
 ```
 ATENDENTEPRO_LICENSE_KEY=ATP_eyJvcmciOiJNb25rQUktRXN0YWdpby1JQSIsImV4cCI6MTc4MTk1MTkwMywiZmVhdCI6WyJmdWxsIl0sInYiOjF9.e6f882d00e9d510c
+ATENDENTEPRO_LICENSE_SECRET=da795fc6ee9880e0781ba602a313bd3eb9fd8643b1c42e2f466f6f791704a760
 ```
 
-Adicione ao seu `.env` ou exporte como variável de ambiente antes de rodar a aplicação.
+Adicione ambas ao seu `.env` ou exporte como variáveis de ambiente antes de rodar a aplicação.
 
 ---
 
